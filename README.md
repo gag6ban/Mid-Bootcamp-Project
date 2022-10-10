@@ -12,7 +12,7 @@ How should AutoScout24 adapt to shifting consumer preferences in German automark
 
 ### Data Set
 
-Sales data between 2011 and 2021 from the Germany used platform 'AutoScout24'. It has 44,000 observations with 9 different features. 
+Data from Kaggle: https://www.kaggle.com/datasets/ander289386/cars-germany was imported. It had 48,000 observations with 9 different features. 
 
 **Year**: Respective year in which the car was sold
 
@@ -54,5 +54,12 @@ Sales data between 2011 and 2021 from the Germany used platform 'AutoScout24'. I
 
 10) 7-minute live presentation to 27 colleagues to present project and data-driven insights followed by 5-minute discussion
 
-## Trello board to track project status: https://trello.com/b/Iffg6xj9/project-week
+### Trello board to track project status: https://trello.com/b/Iffg6xj9/project-week
+
+### Tableau Public page with visualizations: https://public.tableau.com/views/IronHack_German_Cars/GermanCarMarketShiftingConsumerPreferences?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
+
+
+
 
