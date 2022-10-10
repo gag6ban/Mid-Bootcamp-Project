@@ -7,7 +7,8 @@ I'm a risk analyst for xyz Company in Berlin, Germany. I have been approached by
 
 #### Problem Description: How should AutoScout24 adapt to shifting consumer preferences in German automarket?
 
-Data: Sales data
+##### Data: Sales databetween 2011 and 2021 from the Germany used platform 'AutoScout24'. It has 44,000 observations with 9 different features. 
+
 Customer Number: A sequential number assigned to the customers.
 Offer Accepted: Did the customer accept (Yes) or reject (No) the offer.
 Reward: The type of reward program offered for the card.
