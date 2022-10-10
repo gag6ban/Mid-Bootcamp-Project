@@ -49,3 +49,5 @@ Price: Price at which the car was sold
 
 10) 7-minute live presentation to 27 colleagues to present project and data-driven insights followed by 5-minute discussion
 
+Trello board to track project status: https://trello.com/b/Iffg6xj9/project-week
+
