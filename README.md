@@ -2,12 +2,17 @@
 
 ## By: Will & Gaurav | 9 October 2022
 
-## Background
+### Background
+
 We are a risk analyst for xyz Company in Berlin, Germany. We have been approached by one of the leading automotive used online car portal autoscout24 to understand the change in consumer preference while buying a used car in Germany from 2017 onwards. 
 
-## Problem Description: How should AutoScout24 adapt to shifting consumer preferences in German automarket?
+### Problem Description 
 
-### Data: Sales data between 2011 and 2021 from the Germany used platform 'AutoScout24'. It has 44,000 observations with 9 different features. 
+How should AutoScout24 adapt to shifting consumer preferences in German automarket?
+
+### Data Set
+
+Sales data between 2011 and 2021 from the Germany used platform 'AutoScout24'. It has 44,000 observations with 9 different features. 
 
 **Year**: Respective year in which the car was sold
 
