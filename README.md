@@ -13,6 +13,7 @@ How should AutoScout24 adapt to shifting consumer preferences in German automark
 ## Research question 
 
 **1)** Diesel less popular post-2017?
+
 **2)** Electric cars more popular post-2017? 
 
 ### Data Set
@@ -55,15 +56,19 @@ Data from Kaggle: https://www.kaggle.com/datasets/ander289386/cars-germany was i
 
   a) For Research Q1: 
       One-sided test:
+      
     # Null hypothesis or H0: count of diesel pre-2017 </= 845 (post)
+    
     # Alternative hypothesis or H1: count of diesel pre-2017 > 845 (post)
     
-    b) For Research Q2: 
+   b) For Research Q2: 
       One-sided test:
+      
     # Null hypothesis or H0: count of electric pre-2017 >/= 80 (post-2017)
+    
     # Alternative hypothesis or H1: count of electric pre-2017 < 80 (post 2017)
 
-8) Data visualizations in Tableau comparing demographics of customers who did and didn't take the offer
+8) Data visualizations in Tableau comparing various features and target
 
 9) Preparation of presentation to explain findings, recommendations and future actions to be taken by the autoscout24 bank to optimise their inventory in case of shift in any consumer preference trend. 
 
