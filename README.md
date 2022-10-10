@@ -2,11 +2,12 @@
 
 ## By: Will & Gaurav | 9 October 2022
 
-## Background
-I'm a risk analyst for Hawkins Bank in Hawkins, Indiana. In order to better understand the demographics of its clients that accept a credit card offer, Hawkins Bank has designed a focused marketing study, where they sent 18,000 current bank clients a credit card offer in the mail. This focused approach allows the bank to know who does and does not respond to the offer, and to analyze this data with existing demographic data of each customer.
+### Background
+I'm a risk analyst for xyz Company in Berlin, Germany. I have been approached by one of the leading automotive used online car portal autoscout24 to understand the change in consumer preference while buying a used car in Germany from 2017 onwards. 
 
-Objective: Build a classification model to predict which bank customers will sign up for a credit card offer sent by mail. Use this model to suggest actionable insights to Hawkins Bank to improve the sign-up rate of their next credit card mailer campaign.
-Data: The data set consists of 14 demographic features on 18,000 current bank customers:
+#### Problem Description: How should AutoScout24 adapt to shifting consumer preferences in German automarket?
+
+Data: Sales data
 Customer Number: A sequential number assigned to the customers.
 Offer Accepted: Did the customer accept (Yes) or reject (No) the offer.
 Reward: The type of reward program offered for the card.
