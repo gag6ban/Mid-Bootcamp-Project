@@ -29,23 +29,23 @@ Price: Price at which the car was sold
 
 ###### Process
 
-Exploratory Data Analysis and Visualizations using Python
+1) Exploratory Data Analysis and Visualizations using Python
 
-Cleaning data (dealing with NaN values, empty values, duplicate rows, standardizing heading names, checking outliers, etc.)
+2) Cleaning data (dealing with NaN values, empty values, duplicate rows, standardizing heading names, checking outliers, etc.)
 
-Querying in SQL
+3) Querying in SQL
 
-Pre-processing data for modeling (X/y split, train/test split, encoding categoricals and scaling numericals)
+4) Pre-processing data for modeling (X/y split, train/test split, encoding categoricals and scaling numericals)
 
-Re-running model with each data balance technique and comparing their confusion matrix and metrics
+5) Re-running model with each data balance technique and comparing their confusion matrix and metrics
 
-Drawing conclusions about data from the model
+6) Drawing conclusions about data from the model
 
-Hypothesis testing : Is the (average) average account balance of all Hawkins Bank customers the same as the (average) average account balance of customers who didn't take the credit card offer?
+7) Hypothesis testing : Is the (average) average account balance of all Hawkins Bank customers the same as the (average) average account balance of customers who didn't take the credit card offer?
 
-Data visualizations in Tableau comparing demographics of customers who did and didn't take the offer
+8) Data visualizations in Tableau comparing demographics of customers who did and didn't take the offer
 
-Preparation of presentation to explain findings, recommendations and future actions to be taken by the autoscout24 bank to optimise their inventory in case of shift in any consumer preference trend. 
+9) Preparation of presentation to explain findings, recommendations and future actions to be taken by the autoscout24 bank to optimise their inventory in case of shift in any consumer preference trend. 
 
-7-minute live presentation to 27 colleagues to present project and data-driven insights followed by 5-minute discussion
+10) 7-minute live presentation to 27 colleagues to present project and data-driven insights followed by 5-minute discussion
 
